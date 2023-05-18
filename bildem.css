@@ -1,0 +1,23 @@
+body{
+    background-image: url(bess1.jpg);
+}
+h2{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none; 
+    color: #333;
+    }
+    a:hover,
+    a:focus{
+      text-decoration: underline;
+    }

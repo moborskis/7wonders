@@ -1,0 +1,74 @@
+*{
+        font-family: Arial, sans-serif;
+       
+      }
+      .container {
+        margin: 20px;
+      }
+      h1 {
+        color: black;
+        margin-bottom: 40px;
+      }
+      body{
+       background-image: url(bess1.jpg);
+       background-size: cover;
+        
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid black;
+        box-shadow: 0 0 5px gray;
+        margin-bottom: 20px;
+        background-color: transparent;
+      }
+      td {
+        padding: 20px;
+        text-align: left;
+        border: 1px solid wheat;
+       }
+        .gw.jpg img{
+            width: 200%;
+            height: auto;
+        }
+        th {
+          background-color: #333;
+          color: white;
+        }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+      tr:hover {
+        background-color: #e5e5e5;
+      }
+      .image-cell img {
+        width: 100px;
+        height: auto;
+      }
+      h1{
+        font-size: xx-large;
+        font-style: italic;
+      }
+      a{
+        text-decoration: none; 
+        color: #333;
+        }
+        a:hover,
+        a:focus{
+          text-decoration: underline;
+        }
+        .teikums{
+          text-align: center;
+          font-size: small;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+      
+  
+      
+      
+     
+
+
+    
+    
